@@ -4,7 +4,7 @@
 ## Đây là các link youtube record lại các buổi học dành cho các bạn có thể xem và thực hành lại buổi học:
 
 ### Buổi 1 (8/4/2023): https://youtu.be/J4VolFjQeEs
-### Buổi 2:
+### Buổi 2 (15/4/2023): https://youtu.be/Q03RLmvC5Uo
 ### Buổi 3:
 ### Buổi 4:
 ### Buổi 5:
