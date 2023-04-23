@@ -5,7 +5,7 @@
 
 ### Buổi 1 (8/4/2023): https://youtu.be/J4VolFjQeEs
 ### Buổi 2 (15/4/2023): https://youtu.be/Q03RLmvC5Uo
-### Buổi 3:
+### Buổi 3 (22/4/2023): https://youtu.be/FFxE50voodQ
 ### Buổi 4:
 ### Buổi 5:
 ### Buổi 6:
