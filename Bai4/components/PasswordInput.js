@@ -6,7 +6,7 @@ class PasswordInput {
 
     render() {
         const inputTag = document.createElement('input')
-        inputTag.type = "text"
+        inputTag.type = "password"
         inputTag.placeholder = this.placeholderText
         inputTag.setAttribute("id", this.id)
 
@@ -20,4 +20,4 @@ class PasswordInput {
     }
 }
 
-export default PasswordInput
+export default PasswordInput;
