@@ -8,7 +8,7 @@
 ### Buổi 3 (22/4/2023): https://youtu.be/FFxE50voodQ
 ### Buổi 4 (5/5/2023): https://youtu.be/g-MjZvDEML4
 ### Buổi 5 (13/5/2023): https://youtu.be/8AlEu__DbLI 
-### Buổi 6:
+### Buổi 6 (20/5/2023): https://youtu.be/X4l5Veag51U
 ### Buổi 7:
 ### Buổi 8:
 ### Buổi 9:
